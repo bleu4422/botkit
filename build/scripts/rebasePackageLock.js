@@ -94,5 +94,6 @@ async function main() {
 }
 
 main();
+install
 
 
